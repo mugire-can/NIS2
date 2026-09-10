@@ -16,6 +16,6 @@ compliance with Directive (EU) 2022/2555 (NIS2).
 ## Status
 
 - [x] Block 1 — Regulatory qualification
-- [ ] Block 2 — Gap analysis & roadmap
+- [x] Block 2 — Gap analysis & roadmap
 - [ ] Block 3 — Network architecture
 - [ ] Block 4 — Crisis management & notifications
