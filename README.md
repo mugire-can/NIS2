@@ -1,5 +1,9 @@
 # NIS2 Compliance Project — HydroRégie
 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-4%2F4%20blocks%20complete-brightgreen.svg)
+![NIS2](https://img.shields.io/badge/directive-EU%202022%2F2555-lightgrey.svg)
+
 Practical case study: bringing HydroRégie, a public drinking water utility
 serving 450,000 inhabitants and qualified as an *essential entity*, into
 compliance with Directive (EU) 2022/2555 (NIS2).
