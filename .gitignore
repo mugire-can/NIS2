@@ -1,0 +1,39 @@
+# Source materials (course PDFs, slide decks) — not part of the deliverable
+*.pdf
+*.pptx
+*.key
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Environment / secrets (just in case)
+.env
+.env.*
+
+# Node (in case any tooling gets added later)
+node_modules/
+
+# Python (in case any scripts get added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archive/compressed files accidentally dropped in
+*.zip
+*.rar
+*.7z
